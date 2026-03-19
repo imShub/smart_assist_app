@@ -39,4 +39,9 @@ Flow: `UI -> Provider (Riverpod) -> ApiService`
 - `lib/widgets/`: Shared UI components like the message bubble and custom loading indicator.
 
 ## Screenshots
-*(Add screenshots here before submitting)*
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="screenshots/screenshot_1.jpeg" width="30%" />
+  <img src="screenshots/screenshot_2.jpeg" width="30%" />
+  <img src="screenshots/screenshot_3.jpeg" width="30%" />
+</div>
